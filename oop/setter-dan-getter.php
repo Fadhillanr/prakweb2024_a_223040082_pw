@@ -115,5 +115,5 @@ $produk2->setDiskon(50);
 echo $produk2->getHarga();
 echo "<hr>";
 
-$produk1->setPenulis("Aurelia");
+$produk1->setPenulis("Fadhilla");
 echo $produk1->getPenerbit();
